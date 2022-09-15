@@ -1,13 +1,16 @@
 <script>
-    let title = "Morning breakfast";
-    let products = [0, 1, 2, 3, 4, 5, 6, 8];
+    export let title = "";
+    export let products = [];
+    export let url = "";
 </script>
 
 
 
 <div class="container">
     <div class="left">
-        <div id="image"></div>
+        <div id="image">
+            <img src={url} alt="" id="icon"/>
+        </div>
     </div>
     <div class="mid">
         <h1>{title}</h1>
@@ -70,7 +73,15 @@
         width: 60px;
         object-fit: cover;
         border-radius: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
+    #icon {
+        height: 28px;
+        width: auto;
+        object-fit: cover;
+    }
 
 </style>
