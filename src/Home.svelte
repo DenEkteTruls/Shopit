@@ -71,7 +71,7 @@
         width: 100vw;
         padding: 0 6%;
         display: grid;
-        grid-template-rows: 30px 100px 30px calc(67.5vh + (10vh - 70px));
+        grid-template-rows: 30px 100px 30px calc(67.5vh + 10vh);
     }
 
     .detail {
