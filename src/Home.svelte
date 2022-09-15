@@ -35,7 +35,7 @@
         width: 100vw;
         height: 100vh;
         display: grid;
-        grid-template-rows: 12.5vh calc(67.5vh - calc(10vh - 70px)) 10vh 70px;
+        grid-template-rows: 12.5vh calc(67.5vh + (10vh - 70px)) 10vh 70px;
     }
 
     .top {
@@ -71,7 +71,7 @@
         width: 100vw;
         padding: 0 6%;
         display: grid;
-        grid-template-rows: 30px 100px 30px calc(calc(67.5vh - calc(10vh - 70px)) - 160px);
+        grid-template-rows: 30px 100px 30px calc(67.5vh + (10vh - 70px));
     }
 
     .detail {
