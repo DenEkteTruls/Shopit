@@ -35,7 +35,7 @@
         width: 100vw;
         height: 100vh;
         display: grid;
-        grid-template-rows: 12.5vh calc(67.5vh + (10vh - 70px)) 10vh 70px;
+        grid-template-rows: 12.5vh calc(67.5vh + calc(10vh - 70px)) 10vh 70px;
     }
 
     .top {
