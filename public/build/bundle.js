@@ -2050,20 +2050,20 @@ var app = (function () {
     			add_location(div1, file$1, 8, 4, 95);
     			if (!src_url_equal(img0.src, img0_src_value = "media/icons/cart.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "");
-    			attr_dev(img0, "class", "svelte-rp23io");
+    			attr_dev(img0, "class", "svelte-66stl5");
     			add_location(img0, file$1, 9, 23, 131);
-    			attr_dev(div2, "class", "counter svelte-rp23io");
+    			attr_dev(div2, "class", "counter svelte-66stl5");
     			add_location(div2, file$1, 9, 63, 171);
-    			attr_dev(div3, "class", "image svelte-rp23io");
+    			attr_dev(div3, "class", "image svelte-66stl5");
     			add_location(div3, file$1, 9, 4, 112);
     			add_location(div4, file$1, 10, 4, 219);
     			if (!src_url_equal(img1.src, img1_src_value = "media/icons/profile.png")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "");
-    			attr_dev(img1, "class", "svelte-rp23io");
+    			attr_dev(img1, "class", "svelte-66stl5");
     			add_location(img1, file$1, 11, 23, 255);
-    			attr_dev(div5, "class", "image svelte-rp23io");
+    			attr_dev(div5, "class", "image svelte-66stl5");
     			add_location(div5, file$1, 11, 4, 236);
-    			attr_dev(div6, "class", "container svelte-rp23io");
+    			attr_dev(div6, "class", "container svelte-66stl5");
     			add_location(div6, file$1, 6, 0, 49);
     		},
     		l: function claim(nodes) {
@@ -2236,31 +2236,31 @@ var app = (function () {
     			create_component(navbar.$$.fragment);
     			add_location(div0, file, 8, 8, 180);
     			attr_dev(h1, "id", "title");
-    			attr_dev(h1, "class", "svelte-i1so5c");
+    			attr_dev(h1, "class", "svelte-kxwfzo");
     			add_location(h1, file, 9, 8, 201);
     			if (!src_url_equal(img.src, img_src_value = "media/profile-image.jpg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "");
-    			attr_dev(img, "class", "svelte-i1so5c");
+    			attr_dev(img, "class", "svelte-kxwfzo");
     			add_location(img, file, 11, 12, 283);
     			attr_dev(div1, "id", "profile-image");
-    			attr_dev(div1, "class", "svelte-i1so5c");
+    			attr_dev(div1, "class", "svelte-kxwfzo");
     			add_location(div1, file, 10, 8, 245);
-    			attr_dev(div2, "class", "top svelte-i1so5c");
+    			attr_dev(div2, "class", "top svelte-kxwfzo");
     			add_location(div2, file, 7, 4, 153);
-    			attr_dev(p0, "class", "detail dark-grey svelte-i1so5c");
+    			attr_dev(p0, "class", "detail dark-grey svelte-kxwfzo");
     			add_location(p0, file, 15, 8, 397);
-    			attr_dev(p1, "class", "detail dark-grey svelte-i1so5c");
+    			attr_dev(p1, "class", "detail dark-grey svelte-kxwfzo");
     			add_location(p1, file, 17, 8, 618);
     			attr_dev(div3, "class", "recent");
     			add_location(div3, file, 18, 8, 676);
-    			attr_dev(div4, "class", "list-container svelte-i1so5c");
+    			attr_dev(div4, "class", "list-container svelte-kxwfzo");
     			add_location(div4, file, 14, 4, 359);
     			attr_dev(button, "id", "listbutton");
-    			attr_dev(button, "class", "svelte-i1so5c");
+    			attr_dev(button, "class", "svelte-kxwfzo");
     			add_location(button, file, 26, 8, 972);
-    			attr_dev(div5, "class", "button-container svelte-i1so5c");
+    			attr_dev(div5, "class", "button-container svelte-kxwfzo");
     			add_location(div5, file, 25, 4, 932);
-    			attr_dev(div6, "class", "body svelte-i1so5c");
+    			attr_dev(div6, "class", "body svelte-kxwfzo");
     			add_location(div6, file, 6, 0, 129);
     		},
     		l: function claim(nodes) {

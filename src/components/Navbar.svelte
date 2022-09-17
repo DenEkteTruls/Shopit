@@ -17,8 +17,7 @@
 <style>
     .container {
         width: 84%;
-        height: 70px;
-        max-height: 100px;
+        height: 100%;
         display: grid;
         grid-template-columns: 20% 20% 20% 20% 20%;
         align-items: center;

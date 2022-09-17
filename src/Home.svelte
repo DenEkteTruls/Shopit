@@ -35,7 +35,7 @@
         width: 100vw;
         height: 100vh;
         display: grid;
-        grid-template-rows: 12.5vh 69.5vh 10vh 8vh;
+        grid-template-rows: 12.5vh 71.5vh 8vh 8vh;
     }
 
     .top {
@@ -71,7 +71,7 @@
         width: 100vw;
         padding: 0 6%;
         display: grid;
-        grid-template-rows: 30px 100px 30px 69.5vh;
+        grid-template-rows: 30px 100px 30px calc(69.5vh - 160px);
     }
 
     .detail {
@@ -93,13 +93,10 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin-top: 5%;
     }
 
     #listbutton {
         height: 100%;
-        max-height: 60px;
-        min-height: 50px;
         width: 84%;
         border: none;
         border-radius: 40px;
